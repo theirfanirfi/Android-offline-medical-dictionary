@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_diseases">DiseasesActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_diseas">DiseasActivity</string>
+
+    <!-- Disease activity tabs titles-->
+    <string name="tab_text_1">What is it?</string>
+    <string name="tab_text_2">Where is it found?</string>
+    <string name="tab_text_3">How is the disease spread?</string>
+    <string name="tab_text_4">Stages of Disease</string>
+    <string name="tab_text_5">Treatment</string>
+    <string name="tab_text_6">Prevention</string>
+    <!-- end -->
+
+    <string name="title_activity_diseases_main">DiseasesMainActivity</string>
+
+
+</resources>
